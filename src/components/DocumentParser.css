@@ -1,0 +1,28 @@
+.document-parser {
+  padding: 2rem;
+  background-color: #f1f1f1;
+}
+
+.document-parser input {
+  margin-right: 1rem;
+}
+
+.document-parser button {
+  padding: 0.5rem 1rem;
+  background-color: #21a179;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.document-parser button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.parsed-text {
+  margin-top: 1rem;
+  background-color: #fff;
+  padding: 1rem;
+  border: 1px solid #ddd;
+} 

@@ -1,0 +1,16 @@
+.report-downloader {
+  padding: 2rem;
+  background-color: #f0f0f0;
+}
+
+.report-downloader button {
+  padding: 0.5rem 1rem;
+  background-color: #ff7f50;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.report-downloader button:hover {
+  background-color: #ff6347;
+} 

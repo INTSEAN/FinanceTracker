@@ -1,0 +1,18 @@
+.graph-view {
+  padding: 2rem;
+  background-color: #e8f4f8;
+}
+
+.chart-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.balance-info {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.balance-info p {
+  font-size: 1.2rem;
+} 

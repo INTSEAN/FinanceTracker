@@ -1,0 +1,36 @@
+.expense-tracker {
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+.expense-tracker form {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.expense-tracker input {
+  padding: 0.5rem;
+  flex: 1;
+}
+
+.expense-tracker button {
+  padding: 0.5rem 1rem;
+  background-color: #61dafb;
+  border: none;
+  cursor: pointer;
+}
+
+.expense-tracker button:hover {
+  background-color: #21a1f1;
+}
+
+.expense-tracker ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.expense-tracker li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
+} 
